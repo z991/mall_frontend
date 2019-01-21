@@ -1,0 +1,89 @@
+.detailGoods{width:100%;text-align:left;
+  .explain{width:1200px;margin: 0 auto;margin-top:27px;padding-bottom:17px;border-bottom:1px solid #ccc;}
+  .detail_all{width:100%;margin:0 auto;}
+  .detail_photo{width:45%;
+    .photo_de{width:100%;height: 420px;margin-bottom:16px;background:#f4f8fe;position: relative;
+    img{display: inline-block;width:100%;height:100%;}
+       .move{width:220px;height:220px;position:absolute;border:1px solid red;}
+
+    }
+    .photo_br{width:100%;li{width:80px;height: 80px;margin-right: 20px;background:#f4f8fe;img{display: inline-block;width:80px;height:80px;}}}
+  }
+  .bimg{width:583px;height:420px;position:absolute;top:0px;left:593px;overflow: hidden;
+  img{display: inline-block;width:1110px!important;height:800px!important;position:absolute;}
+  }
+  .detail_descri{text-align:left;width:45%;color:#999;box-sizing:border-box;padding-left:20px;
+    .descri_name{font-size: 18px;color:#29354a;margin:10px 0 35px 0;}
+    .descri_de{color:#999;line-height: 24px;}
+    .label{margin: 32px 0 100px 0;.label_explain{color:#333;margin-bottom:22px;}
+      .label_de{
+        span{display: inline-block;width:100px;height:40px;line-height:40px;font-size: 16px;color:#7b98ac;text-align: center;background:#f4f8fe;
+        border-radius:25px;margin:10px;overflow:hidden;white-space: nowrap;text-overflow: ellipsis;}}
+    }
+    .descri_price{
+      width:100%;height:84px;background:#fafafa;text-align:center;box-sizing:border-box;margin:38px 0;
+      .descri_word{text-align:left;padding:6px 0 0 2px;color:#333;}
+      .descri_ye{font-size: 30px;color:#f04234;}
+    }
+    .descri_num{
+      color:#333;
+      text-align: left;
+      input{width:54px;height:30px;border:1px solid #e9e9e9;margin:0 10px 0 28px;text-align:center;}}
+    .addshop{text-align:right;a{display: inline-block;border-radius: 5px;width: 220px;height:46px;line-height:46px;text-align:center;background:#1e73f2;color:#fff;}}
+  }
+  .introduce{width:1200px;margin: 0 auto;height:82px;color:#7a818c;text-align:left;
+    span{display: inline-block;cursor:pointer;margin-top:30px;margin-bottom:15px;position: relative;
+      em{display: inline-block;position:absolute;top:25px;left:15px;width:20px;height:5px;background:#1e73f2;border-radius:5px;}}
+    .active:after{content: '';display:block;position:absolute;left:0;right:0;width:20px;height:4px;background: #1e73f2;border-radius:5px;margin:auto;margin-top:5px;}
+  }
+  .goods_detail{width:100%;background:#fafafa;padding-bottom:40px;
+
+    .introduce_content{width:1200px;margin: 0 auto;
+      .allocation{padding:26px 0 15px 0;text-align:left;}
+      .alloca_box{border:1px solid #ccc;ul{margin:16px 0;margin-right: 90px;li{line-height: 36px;overflow: hidden;white-space: nowrap;text-overflow: ellipsis;}}
+        .richtext{padding:15px 30px;text-align:left;line-height:32px;letter-spacing:1px;}
+      }
+      .sucessCase{display: flex;width:120px;height:120px;overflow: hidden;justify-content: center;align-items: center;margin:3px 15px 0 5px;}
+    }
+      // img{display: inline-block;width:17%;height:120px;margin:1%;}
+    .alloca_photo{margin-top:40px;
+        p{text-align:center;img{width:auto;height:auto;max-width:1160px;}}
+    }
+    }
+    .product_linsing{
+      padding:10px  0 0 0;
+    }
+    .product_config{
+      width:1200px;
+      padding:5px 15px;
+      li{
+        width:300px;
+        height:50px;
+        float:left;
+
+      }
+    }
+    .product_justing{
+      padding:0 0 0 15px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

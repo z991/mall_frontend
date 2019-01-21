@@ -1,0 +1,36 @@
+.my_detail{width:1200px;margin:20px auto;
+  .listp{width:100%;height:55px;background-color: #F5F5F5;position: relative;border:1px solid #eee;height:55px;line-height: 55px;}
+  .lie{text-align:left;padding-left:22px;span{width:19%;color:black;font-size: 12px;display: inline-block;}}
+  .order_li{ float:left;width:80%;li{height:55px;border:1px solid #eee;height:55px;line-height: 55px;}}
+  .order_gou{float:left;width:19.8%;border-left:1px solid #eee;span{display: inline-block;width:100%;margin:4px;}}
+  .list_right{float:right;padding-right:22px;}
+  .list_le{float:left;padding-left: 22px;}
+  .gray{color:#999!important;}
+  .blue{color:#1e73f2!important;}
+  .yellow{color:#ff9400!important;}
+  .detail_li{width:100%;border:1px solid #eee;font-size:12px;padding:20px 0 30px 0;
+  .pdi{text-align: left;font-size: 16px;margin:0 0 10px 20px;}
+  li{width:49.5%;display: inline-block;text-align:left;margin:8px 0;
+  label{color:#999;display: inline-block;padding: 0 10px 0 0;width:90px;text-align: right;}
+  span{color:black}
+  }
+  }
+  .defl{float:left;width:19.5%;height:100px;
+  .desp{width:100%;display: inline-block}
+  .dei{width:100%;display: inline-block;height:60px;background:url(../../assets/left.png) no-repeat center;position: relative}
+  .de1{background:url(../../assets/left.png) no-repeat center}
+  .dep3:after{content:'';position: absolute;top:46%;background: #1e73f2;width:39%;height:5px;left:143px;}
+  .dep1:before{content:'';position: absolute;top:46%;background: #1e73f2;width:38%;height:5px;left:0px;}
+  .dep2:after{content:'';position: absolute;top:46%;background: #b4bbbf;width:39%;height:5px;left:143px;}
+  .dep:before{content:'';position: absolute;top:46%;background: #b4bbbf;width:38%;height:5px;left:0px;}
+  .de2y{background:url(../../assets/cen1.png) no-repeat center}
+  .de2{background:url(../../assets/cen.png) no-repeat center}
+  .de3{background:url(../../assets/right2.png) no-repeat center}
+  .de3y{background:url(../../assets/right1.png) no-repeat center}
+  .yan{position: relative;top:20px;font-style: normal;font-size: 18px;font-weight: 700;color:white}
+  .ded{font-size: 16px;color: #333;font-weight: 600;font-family:'Microsoft YaHei'  }
+  .ded1{font-size: 12px;color: #666;}
+  .ded2{font-size: 16px;color: #b4bbbf;font-weight: 600;font-family:'Microsoft YaHei'}
+  }
+  .pd{text-align: left;font-size: 18px;margin:35px 0 17px 0;padding-left: 20px;background:url(../../assets/ding.png) left center no-repeat}
+}

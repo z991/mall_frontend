@@ -1,0 +1,19 @@
+body,div,p,span,a,em,i,ul,li,img,input,select,table,tr,td,th{margin:0;padding:0;font-family: 'Microsoft YaHei';font-size:14px;}
+.bodshaod{background-color:gray;opacity:0.3;}
+.fl{float:left;}.fr{float:right;}
+.clear:after{content: "";display: block;clear:both;}
+body{width:100%;height:100%;min-width:1366px;}/**/
+a{text-decoration:none;}
+li{list-style:none;}
+.back{background-color: #edf2f5;width:90%;margin:auto;}
+.qu{height:36px;line-height:36px;background-color: white;}
+.cp{height:55px;line-height: 55px;text-align: left;background-color:#e5eaeb;}
+.c0,.c1,.c2,.c3,.c4{color:#666666;display:inline-block;white-space:nowrap; overflow:hidden; text-overflow:ellipsis;}
+.c1{margin-left:22px;width:110px;}
+.c3{width:240px;}
+.cha,.bian,.dele,.open{width:20px;height:20px;display:inline-block;}
+.chanp,.chanpf,.chanps,.chanpw,.chanpz,.chanpj,.guan,.gong,.system,.personal,.lineStation,.allshow,.line1,.line2,.line3,.line4,
+.service,.nodeCase,.supSetting,.clientTrade,.product,.productnow,.chanpnow,.openstationf,.openstations,.openstationt,
+.openstationfr,.newj,.productService,.commodifyLabel,.single_,.single_product,
+.openstationfr,.newj,.productService,.commodifyLabel,.commodifyModule
+{background-color: #edf2f5;width:90%;margin:auto;}

@@ -1,0 +1,20 @@
+.shade{position:fixed;left:0;top:0;width:100%;height:100%;background-color:gray;z-index: 998}
+.newTrade{position:absolute;top:150px;left:0;right:0;margin:auto;width:568px;height:480px;background:#fff ;z-index:999;
+ .closeBtn{text-align:right;padding-top:24px;padding-right:24px;}                                                                                              ;box-sizing:border-box;
+   .title{text-align: center;font-size:30px;color:#333;padding-top:46px;padding-bottom:38px;}
+   .accout{position:relative;width:410px;line-height: 50px;height:50px;margin:0 auto;margin-bottom:13px;
+     label{position:absolute;left:0;margin-left:12px;font-size:16px;color:#666;}
+     input{width:358px;height:50px;padding-left:52px;border:none;outline: none;background:#f4f7f8;border-radius:5px;}
+   }
+   .accout{.verInp{width:162px;height:50px;padding-left:72px;}.verCode{display:inline-block;width:152px;height:50px;margin-left:20px;background:#f4f7f8;border-radius:5px;img{width:150px;height:50px;}}}
+   .operate{margin:40px auto 50px auto;width:410px;text-align:right;
+     .login{display: inline-block;height:50px;width:196px;line-height:50px;background:url(../../assets/gra.png) no-repeat;background-size:196px 50px;color:#fff;font-size:24px;text-align: center;}
+     .forget{font-size: 16px;color:#999;margin-left: 62px;}
+   }
+ }
+ .forgetPass{position:absolute;top:0px;left:0;right:0;margin:auto;width:568px;height:480px;background:#fff;text-align: center;z-index:999;
+   .closeBtn{text-align:right;padding-top:24px;padding-right:24px;}
+   .explain{color:#333;font-size:30px;margin-bottom:10px;}
+   .relation{color:#666;font-size: 16px;}
+   .passLogo{margin:36px 0;}
+ }

@@ -1,0 +1,16 @@
+.industry{text-align: left;width:1200px;margin:0 auto;
+  .title{position:relative;color:#1e73f2;margin:20px 0;}
+  .title:after{content: "";display:block;position:absolute;left:4px;width:100px;height:3px;border-radius:2px;background:#1e73f2;margin-top:5px;}
+  .program{
+    .schemeOne{display:inline-block;width:588px;height:212px;border:1px solid #eee;border-radius:3px;margin-bottom:20px;cursor: pointer;
+      .introduce{margin:15px 28px 15px 20px;width:180px;height:180px;img{width:180px;height:180px;}}
+      .introDetail{margin-top:18px;}
+      .introTitle{color:#353f52;font-size: 16px;}
+      .introContent{font-size: 12px;color:#999;line-height: 22px;margin:18px 0 24px 0;padding-right: 20px;height:50px;text-overflow: ellipsis;overflow: hidden}
+      .introPrice{color:#eb4f38;font-size: 16px;}
+      .introShop{display:inline-block;width:132px;border-radius: 5px;height:32px;line-height:32px;color:#fff;text-align:center;background:#1e73f2;margin:20px 0 0 152px;}
+    }
+    .oneActive{box-shadow: 0 0 10px #e4e2e2;border:1px solid #fff;}
+  }
+  .program{.schemeOne:nth-of-type(2n){margin-left:20px;}}
+}

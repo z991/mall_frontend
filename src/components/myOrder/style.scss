@@ -1,0 +1,13 @@
+.myOrder{width:90%;margin:20px auto;
+  .orli{margin-bottom: 20px;}
+  .listp{width:100%;height:55px;background-color: #F5F5F5;position: relative;border:1px solid #eee;height:55px;line-height: 55px;}
+  .lie{text-align:left;padding-left:22px;span{width:19%;color:black;font-size: 12px;display: inline-block;}}
+  .order_li{ float:left;width:80%;li{height:55px;border:1px solid #eee;height:55px;line-height: 55px;}}
+  .order_gou{float:left;width:19.8%;border-left:1px solid #eee;span{display: inline-block;width:100%;margin:4px;}}
+  .list_right{float:right;padding-right:22px;}
+  .definite{float:right;padding-right:22px;}
+  .list_le{float:left;padding-left: 22px;}
+  .gray{color:#999!important;}
+  .blue{color:#1e73f2!important;}
+  .yellow{color:#ff9400!important;}
+}
